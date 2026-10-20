@@ -1,1 +1,5 @@
 templates/index.html
+templates/base.html
+templates/admin.html
+templates/coupon_form.html
+templates/login.html
